@@ -1,6 +1,4 @@
 ## Hi there 👋
-##    My name is Hong Chhunleng. I am a dedicated and motivated student with a strong interest in technology and problem-solving. I consider myself patient, reliable, and calm under pressure, with good analytical thinking skills. I enjoy learning new things, especially in programming and digital technologies, and I am always willing to improve myself through practice and experience. I work well both independently and in a team, and I am committed to achieving my goals.
-
 
 
 
